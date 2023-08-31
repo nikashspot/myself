@@ -2,23 +2,23 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Iman Banerjee
+Iman Banerjee
+Software Developer
 
 Show Contacts
 
 Email
-richard@example.com
+iman@a2zheaven.com
 
-Phone
-+1 (213) 352-2795
+Discord
+lexo.
 
 Birthday
-June 23, 1982
+May 19
 
 Location
-Sacramento, California, USA
+Kolkata, West Bengal, INDIA
 
 # navbar
 
@@ -32,9 +32,13 @@ Contact
 
 About me
 
-I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
+My name is Iman Banerjee, and I'm currently studying Computer Science Engineering. Gaming is a huge part of my life, with titles like Minecraft, Dota 2, Valorant, League of Legends, Far Cry, and Assassin's Creed captivating my attention. Outside of academics, you'll often find me on Discord, engaging with friends and fellow gamers. I'm also working on building a small public SMP called Lance MP.
 
-My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
+Sports play a significant role in my life too. I've had the opportunity to play football for Mohammaden SC, a Tier 2 ISL team. It's not just a hobby; it's a passion that keeps me active and connected to the thrill of competition. Recently, I've also taken up drawing as a creative outlet, finding joy in expressing myself through art.
+
+During my downtime, I enjoy diving into the world of anime, where I explore various genres and immerse myself in captivating stories. If you're curious about my anime journey, you can find it documented on my AniList profile here: https://anilist.co/user/lexoUwU/ .
+
+In summary, I'm a CSE student, gamer, football enthusiast, budding artist, and anime aficionado, always seeking new experiences and adventures both in the virtual and real world.
 
 
 ## service
